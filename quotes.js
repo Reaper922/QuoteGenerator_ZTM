@@ -734,5 +734,5 @@ const localQuotes = [
     {
       "text": "Fortune favours the brave.",
       "author": "Virgil"
-    },
+    }
 ]
